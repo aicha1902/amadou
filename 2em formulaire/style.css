@@ -1,0 +1,116 @@
+
+
+.tout{
+    border: 1px solid black;
+    background-color: #9F5573;
+    width: 600px;
+    height: 500px;
+    background: linear-gradient(to right, #522B6A,  #9F5573);
+    margin-left: 300px;
+}
+form{
+    border: none;
+}
+
+
+.form{
+    background-color: #04014E;
+    width: 250px;
+    height: 350px;
+    color: white;
+    margin-left: 55px;
+    border: none;
+margin-top: 60px;
+}
+input{
+    color: white;
+    border: none;
+    border-bottom: 1px solid white;
+    background-color: #04014E;
+    width: 90%;
+    font-size: smaller;
+    text-align: left;
+    padding-top: 5px;
+}
+.people{
+    text-align: left;
+    border: none;
+    font-size: smaller;
+}
+td,label{
+    font-size: 1px;
+    text-align: center;
+    border: none;
+    font-size: smaller;
+    color: white;
+    
+
+}
+#price{
+    border: none;
+}
+#people{
+    border: none;
+}
+select, option{
+    border: none;
+    background-color:#04014E;
+    color: white;
+}
+h1{
+    font: 1em sans-serif;
+    text-align: center;
+    color: #9F5573;
+    border: none;
+    padding-top: 40px;
+}
+.submit{
+    border: none;
+    background-color: #9F5573;
+    padding: 8px;
+    margin-top: 15px;
+    margin-right: 50px;
+    width: 100px;
+    text-align: center;
+}
+.verre{
+    height: 350px;
+    width: 250px;
+    position: absolute;
+    margin-left: 605px;
+    margin-top: -440px;
+    border: none;
+
+
+}
+
+/*.form, .verre{
+    display: inline-block;
+}*/
+table{
+    margin-top: -50px;
+}
+.paragraphe{
+    position: relative;
+    text-align: center;
+    font-size: 10px;
+    position: absolute;
+    margin-left: 615px;
+    margin-top: -151px;
+    border: none;
+    color: white;
+}
+.p{
+    margin-left: -8px;
+    margin-top: -2px;
+    width: 250px;
+    background-color: #9F5573;
+    opacity: 50%;
+}
+.cmment{
+    line-height: 80px;
+}
+.com{
+    position: absolute;
+    margin-top: 0px;
+}
